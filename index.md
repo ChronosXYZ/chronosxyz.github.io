@@ -34,14 +34,15 @@ I'm interested in computer science, software engineering and various other tech 
 - [🇷🇺] Russian (native language)
 - [🇺🇸] English (second language)
 
-## Links
+## 📎 Links
 
 - [My lifelog](https://mstdn.netwhood.online/@ChronosX88)
 - [My pictures](https://pf.netwhood.online/chronosx88)
 - [Some good guy](https://abslimit.netwhood.online)
+- [Good evening](https://vechur.netwhood.online)
 - [Network Neighbourhood](https://netwhood.online)
 
-## Contacts
+## 📫 Contacts
 
 You can get in touch with me by following contacts:
 - [<img src="{{ '/assets/xmpp_icon.png' | relative_url }}" width="20px" style="vertical-align: middle;">] XMPP: `chronosx88@xmpp.netwhood.online`  
