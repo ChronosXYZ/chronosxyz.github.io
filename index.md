@@ -39,7 +39,6 @@ I'm interested in computer science, software engineering and various other tech 
 - [My lifelog](https://mstdn.netwhood.online/@ChronosX88)
 - [My pictures](https://pf.netwhood.online/chronosx88)
 - [Some good guy](https://abslimit.netwhood.online)
-- [Good evening](https://vechur.netwhood.online)
 - [Network Neighbourhood](https://netwhood.online)
 
 ## 📫 Contacts
