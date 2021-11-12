@@ -49,4 +49,4 @@ You can get in touch with me by following contacts:
 - [<img src="{{ '/assets/telegram_icon.png' | relative_url }}" width="16wv" style="vertical-align: middle;">] Telegram: `@ChronosX`
 - [<img src="{{ '/assets/email_icon.png' | relative_url }}" width="16wv" style="vertical-align: middle;">] Email: `chronosx88@gmail.com`
 
-*The quick brown <a href="/easter_egg" style="color: var(--text-color); text-decoration: none;">fox</a> jumps over the lazy dog.*
+*The quick brown fox jumps over the lazy dog.*
