@@ -26,14 +26,15 @@ I'm interested in computer science, software engineering and various other tech 
 
 ## 📎 Links
 
-- [My lifelog](https://lor.sh/@ChronosX88)
+- [<img src="{{ '/assets/mastodon_icon.png' | relative_url }}" width="16wv" style="vertical-align: middle;">] [My lifelog]({{site.mastodon_url}})
+- [:octocat:] [My GitHub](https://github.com/{{site.github_username}})
 
 ## 📫 Contacts
 
 You can get in touch with me by following contacts:
 - [<img src="{{ '/assets/xmpp_icon.png' | relative_url }}" width="20px" style="vertical-align: middle;">] XMPP: `chronosx88@xmpp.netwhood.online`  
 - [**m**] Matrix: `@chronosx88:tchncs.de`
-- [<img src="{{ '/assets/telegram_icon.png' | relative_url }}" width="16wv" style="vertical-align: middle;">] Telegram: `@ChronosX`
+- [<img src="{{ '/assets/telegram_icon.png' | relative_url }}" width="16wv" style="vertical-align: middle;">] Telegram: [`@{{site.telegram_username}}`](https://t.me/{{site.telegram_username}})
 - [<img src="{{ '/assets/email_icon.png' | relative_url }}" width="16wv" style="vertical-align: middle;">] Email: `chronosx88@gmail.com`
 
 *The quick brown fox jumps over the lazy dog.*
