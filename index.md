@@ -16,36 +16,23 @@ Welcome to my little slice of web.
 - [<img src="{{ '/assets/open-source.png' | relative_url }}" width="20px" style="vertical-align: middle;">] Free software activist   
 - [<img src="{{ '/assets/linux.png' | relative_url }}" width="20px" style="vertical-align: middle;">] Experienced GNU/Linux user  
 
-I'm interested in computer science, software engineering and various other tech sciences. In my free time I do personal programming projects. Also I like electronic music creation, radio amateurism, computer gaming. One of the admins of [netwhood.online](https://netwhood.online).
-
-## :star: My programming skills
-
-- distributed/decentralized systems
-- web services (mostly backend, a little bit of frontend)
-- DevOps (basic Docker knowledge, administration/tuning of Linux servers)
-- little neural networks knowledge (I have some experience with PyTorch)
-- network/system programming
-- mobile development (Android)
-- and many other things :smiley:
+I'm interested in computer science, software engineering and various other tech sciences. In my spare time I do personal programming projects. Also I like electronic music creation, amateur radio and computer gaming.
 
 
-## 💬 The languages I speak
+## 💬 Languages
 
-- [🇷🇺] Russian (native language)
-- [🇺🇸] English (second language)
+- [🇷🇺] Russian
+- [🇺🇸] English
 
 ## 📎 Links
 
-- [My lifelog](https://mstdn.netwhood.online/@ChronosX88)
-- [My pictures](https://pf.netwhood.online/chronosx88)
-- [Some good guy](https://abslimit.netwhood.online)
-- [Network Neighbourhood](https://netwhood.online)
+- [My lifelog](https://lor.sh/@ChronosX88)
 
 ## 📫 Contacts
 
 You can get in touch with me by following contacts:
 - [<img src="{{ '/assets/xmpp_icon.png' | relative_url }}" width="20px" style="vertical-align: middle;">] XMPP: `chronosx88@xmpp.netwhood.online`  
-- [**m**] Matrix: `@chronosx88:matrix.netwhood.online`
+- [**m**] Matrix: `@chronosx88:tchncs.de`
 - [<img src="{{ '/assets/telegram_icon.png' | relative_url }}" width="16wv" style="vertical-align: middle;">] Telegram: `@ChronosX`
 - [<img src="{{ '/assets/email_icon.png' | relative_url }}" width="16wv" style="vertical-align: middle;">] Email: `chronosx88@gmail.com`
 
